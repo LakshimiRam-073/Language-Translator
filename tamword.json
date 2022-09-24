@@ -1,0 +1,986 @@
+[
+  {
+    "tword": "க்",
+    "eword": "k"
+  },
+  {
+    "tword": "க",
+    "eword": "ka"
+  },
+  {
+    "tword": "கா",
+    "eword": "kaa"
+  },
+  {
+    "tword": "கி",
+    "eword": "ki"
+  },
+  {
+    "tword": "கீ",
+    "eword": "kii"
+  },
+  {
+    "tword": "கு",
+    "eword": "ku"
+  },
+  {
+    "tword": "கூ",
+    "eword": "kuu"
+  },
+  {
+    "tword": "கெ",
+    "eword": "ke"
+  },
+  {
+    "tword": "கே",
+    "eword": "kee"
+  },
+  {
+    "tword": "கை",
+    "eword": "kai"
+  },
+  {
+    "tword": "கொ",
+    "eword": "ko"
+  },
+  {
+    "tword": "கோ",
+    "eword": "koo"
+  },
+  {
+    "tword": "கௌ",
+    "eword": "kau"
+  },
+  {
+    "tword": "ங்",
+    "eword": "ng"
+  },
+  {
+    "tword": "ங",
+    "eword": "nga"
+  },
+  {
+    "tword": "ஙா",
+    "eword": "ngaa"
+  },
+  {
+    "tword": "ஙி",
+    "eword": "ngi"
+  },
+  {
+    "tword": "ஙீ",
+    "eword": "ngii"
+  },
+  {
+    "tword": "ஙு",
+    "eword": "ngu"
+  },
+  {
+    "tword": "ஙூ",
+    "eword": "nguu"
+  },
+  {
+    "tword": "ஙெ",
+    "eword": "nge"
+  },
+  {
+    "tword": "ஙே",
+    "eword": "ngee"
+  },
+  {
+    "tword": "ஙை",
+    "eword": "ngai"
+  },
+  {
+    "tword": "ஙொ",
+    "eword": "ngo"
+  },
+  {
+    "tword": "ஙோ",
+    "eword": "ngoo"
+  },
+  {
+    "tword": "ஙௌ",
+    "eword": "ngau"
+  },
+  {
+    "tword": "ச்",
+    "eword": "ch"
+  },
+  {
+    "tword": "ச",
+    "eword": "sa"
+  },
+  {
+    "tword": "சா",
+    "eword": "saa"
+  },
+  {
+    "tword": "சி",
+    "eword": "si"
+  },
+  {
+    "tword": "சீ",
+    "eword": "sii"
+  },
+  {
+    "tword": "சு",
+    "eword": "su"
+  },
+  {
+    "tword": "சூ",
+    "eword": "suu"
+  },
+  {
+    "tword": "செ",
+    "eword": "se"
+  },
+  {
+    "tword": "சே",
+    "eword": "see"
+  },
+  {
+    "tword": "சை",
+    "eword": "sai"
+  },
+  {
+    "tword": "சொ",
+    "eword": "so"
+  },
+  {
+    "tword": "சோ",
+    "eword": "soo"
+  },
+  {
+    "tword": "சௌ",
+    "eword": "sau"
+  },
+  {
+    "tword": "ஞ்",
+    "eword": "j"
+  },
+  {
+    "tword": "ஞ",
+    "eword": "nja"
+  },
+  {
+    "tword": "ஞா",
+    "eword": "njaa"
+  },
+  {
+    "tword": "ஞி",
+    "eword": "nji"
+  },
+  {
+    "tword": "ஞீ",
+    "eword": "njii"
+  },
+  {
+    "tword": "ஞு",
+    "eword": "nju"
+  },
+  {
+    "tword": "ஞூ",
+    "eword": "njuu"
+  },
+  {
+    "tword": "ஞெ",
+    "eword": "nje"
+  },
+  {
+    "tword": "ஞே",
+    "eword": "njee"
+  },
+  {
+    "tword": "ஞை",
+    "eword": "njai"
+  },
+  {
+    "tword": "ஞொ",
+    "eword": "njo"
+  },
+  {
+    "tword": "ஞோ",
+    "eword": "njoo"
+  },
+  {
+    "tword": "ஞௌ",
+    "eword": "sjau"
+  },
+  {
+    "tword": "ட்",
+    "eword": "t"
+  },
+  {
+    "tword": "ட",
+    "eword": "ta"
+  },
+  {
+    "tword": "டா",
+    "eword": "taa"
+  },
+  {
+    "tword": "டி",
+    "eword": "ti"
+  },
+  {
+    "tword": "டீ",
+    "eword": "tii"
+  },
+  {
+    "tword": "டு",
+    "eword": "tu"
+  },
+  {
+    "tword": "டூ",
+    "eword": "tuu"
+  },
+  {
+    "tword": "டெ",
+    "eword": "te"
+  },
+  {
+    "tword": "டே",
+    "eword": "tee"
+  },
+  {
+    "tword": "டை",
+    "eword": "tai"
+  },
+  {
+    "tword": "டொ",
+    "eword": "to"
+  },
+  {
+    "tword": "டோ",
+    "eword": "too"
+  },
+  {
+    "tword": "டௌ",
+    "eword": "tau"
+  },
+  {
+    "tword": "ண்",
+    "eword": "no"
+  },
+  {
+    "tword": "ண",
+    "eword": "na"
+  },
+  {
+    "tword": "ணா",
+    "eword": "naa"
+  },
+  {
+    "tword": "ணி",
+    "eword": "ni"
+  },
+  {
+    "tword": "ணீ",
+    "eword": "nii"
+  },
+  {
+    "tword": "ணு",
+    "eword": "nu"
+  },
+  {
+    "tword": "ணூ",
+    "eword": "nuu"
+  },
+  {
+    "tword": "ணெ",
+    "eword": "ne"
+  },
+  {
+    "tword": "ணே",
+    "eword": "nee"
+  },
+  {
+    "tword": "ணை",
+    "eword": "nai"
+  },
+  {
+    "tword": "ணொ",
+    "eword": "no"
+  },
+  {
+    "tword": "ணோ",
+    "eword": "noo"
+  },
+  {
+    "tword": "ணௌ",
+    "eword": "nau"
+  },
+  {
+    "tword": "த்",
+    "eword": "th"
+  },
+  {
+    "tword": "த",
+    "eword": "tha"
+  },
+  {
+    "tword": "தா",
+    "eword": "thaa"
+  },
+  {
+    "tword": "தி",
+    "eword": "thi"
+  },
+  {
+    "tword": "தீ",
+    "eword": "thii"
+  },
+  {
+    "tword": "து",
+    "eword": "thu"
+  },
+  {
+    "tword": "தூ",
+    "eword": "thuu"
+  },
+  {
+    "tword": "தெ",
+    "eword": "the"
+  },
+  {
+    "tword": "தே",
+    "eword": "thee"
+  },
+  {
+    "tword": "தை",
+    "eword": "thai"
+  },
+  {
+    "tword": "தொ",
+    "eword": "tho"
+  },
+  {
+    "tword": "தோ",
+    "eword": "thoo"
+  },
+  {
+    "tword": "தௌ",
+    "eword": "thau"
+  },
+  {
+    "tword": "ந்",
+    "eword": "n"
+  },
+  {
+    "tword": "ந",
+    "eword": "na"
+  },
+  {
+    "tword": "நா",
+    "eword": "naa"
+  },
+  {
+    "tword": "நி",
+    "eword": "ni"
+  },
+  {
+    "tword": "நீ",
+    "eword": "nii"
+  },
+  {
+    "tword": "நு",
+    "eword": "nu"
+  },
+  {
+    "tword": "நூ",
+    "eword": "nuu"
+  },
+  {
+    "tword": "நெ",
+    "eword": "ne"
+  },
+  {
+    "tword": "நே",
+    "eword": "nee"
+  },
+  {
+    "tword": "நை",
+    "eword": "nai"
+  },
+  {
+    "tword": "நொ",
+    "eword": "no"
+  },
+  {
+    "tword": "நோ",
+    "eword": "noo"
+  },
+  {
+    "tword": "நௌ",
+    "eword": "nau"
+  },
+  {
+    "tword": "ப்",
+    "eword": "b"
+  },
+  {
+    "tword": "ப",
+    "eword": "pa"
+  },
+  {
+    "tword": "பா",
+    "eword": "paa"
+  },
+  {
+    "tword": "பி",
+    "eword": "pi"
+  },
+  {
+    "tword": "பீ",
+    "eword": "pii"
+  },
+  {
+    "tword": "பு",
+    "eword": "pu"
+  },
+  {
+    "tword": "பூ",
+    "eword": "puu"
+  },
+  {
+    "tword": "பெ",
+    "eword": "pe"
+  },
+  {
+    "tword": "பே",
+    "eword": "pee"
+  },
+  {
+    "tword": "பை",
+    "eword": "pai"
+  },
+  {
+    "tword": "பொ",
+    "eword": "po"
+  },
+  {
+    "tword": "போ",
+    "eword": "poo"
+  },
+  {
+    "tword": "பௌ",
+    "eword": "pau"
+  },
+  {
+    "tword": "ம்",
+    "eword": "m"
+  },
+  {
+    "tword": "ம",
+    "eword": "ma"
+  },
+  {
+    "tword": "மா",
+    "eword": "maa"
+  },
+  {
+    "tword": "மி",
+    "eword": "mi"
+  },
+  {
+    "tword": "மீ",
+    "eword": "mii"
+  },
+  {
+    "tword": "மு",
+    "eword": "mu"
+  },
+  {
+    "tword": "மூ",
+    "eword": "muu"
+  },
+  {
+    "tword": "மெ",
+    "eword": "me"
+  },
+  {
+    "tword": "மே",
+    "eword": "mee"
+  },
+  {
+    "tword": "மை",
+    "eword": "mai"
+  },
+  {
+    "tword": "மொ",
+    "eword": "mo"
+  },
+  {
+    "tword": "மோ",
+    "eword": "moo"
+  },
+  {
+    "tword": "மௌ",
+    "eword": "mau"
+  },
+  {
+    "tword": "ய்",
+    "eword": "y"
+  },
+  {
+    "tword": "ய",
+    "eword": "ya"
+  },
+  {
+    "tword": "யா",
+    "eword": "yaa"
+  },
+  {
+    "tword": "யி",
+    "eword": "yi"
+  },
+  {
+    "tword": "யீ",
+    "eword": "yii"
+  },
+  {
+    "tword": "யு",
+    "eword": "yu"
+  },
+  {
+    "tword": "யூ",
+    "eword": "yuu"
+  },
+  {
+    "tword": "யெ",
+    "eword": "ye"
+  },
+  {
+    "tword": "யே",
+    "eword": "yee"
+  },
+  {
+    "tword": "யை",
+    "eword": "yai"
+  },
+  {
+    "tword": "யொ",
+    "eword": "yo"
+  },
+  {
+    "tword": "யோ",
+    "eword": "yoo"
+  },
+  {
+    "tword": "யௌ",
+    "eword": "yau"
+  },
+  {
+    "tword": "ர்",
+    "eword": "r"
+  },
+  {
+    "tword": "ர",
+    "eword": "ra"
+  },
+  {
+    "tword": "ரா",
+    "eword": "raa"
+  },
+  {
+    "tword": "ரி",
+    "eword": "ri"
+  },
+  {
+    "tword": "ரீ",
+    "eword": "rii"
+  },
+  {
+    "tword": "ரு",
+    "eword": "ru"
+  },
+  {
+    "tword": "ரூ",
+    "eword": "ruu"
+  },
+  {
+    "tword": "ரெ",
+    "eword": "re"
+  },
+  {
+    "tword": "ரே",
+    "eword": "ree"
+  },
+  {
+    "tword": "ரை",
+    "eword": "rai"
+  },
+  {
+    "tword": "ரொ",
+    "eword": "ro"
+  },
+  {
+    "tword": "ரோ",
+    "eword": "roo"
+  },
+  {
+    "tword": "ரௌ",
+    "eword": "rau"
+  },
+  {
+    "tword": "ல்",
+    "eword": "in"
+  },
+  {
+    "tword": "ல",
+    "eword": "la"
+  },
+  {
+    "tword": "லா",
+    "eword": "laa"
+  },
+  {
+    "tword": "லி",
+    "eword": "li"
+  },
+  {
+    "tword": "லீ",
+    "eword": "lii"
+  },
+  {
+    "tword": "லு",
+    "eword": "lu"
+  },
+  {
+    "tword": "லூ",
+    "eword": "luu"
+  },
+  {
+    "tword": "லெ",
+    "eword": "le"
+  },
+  {
+    "tword": "லே",
+    "eword": "lee"
+  },
+  {
+    "tword": "லை",
+    "eword": "lai"
+  },
+  {
+    "tword": "லொ",
+    "eword": "lo"
+  },
+  {
+    "tword": "லோ",
+    "eword": "loo"
+  },
+  {
+    "tword": "லௌ",
+    "eword": "lau"
+  },
+  {
+    "tword": "வ்",
+    "eword": "w"
+  },
+  {
+    "tword": "வ",
+    "eword": "va"
+  },
+  {
+    "tword": "வா",
+    "eword": "vaa"
+  },
+  {
+    "tword": "வி",
+    "eword": "vi"
+  },
+  {
+    "tword": "வீ",
+    "eword": "vii"
+  },
+  {
+    "tword": "வு",
+    "eword": "vu"
+  },
+  {
+    "tword": "வூ",
+    "eword": "vuu"
+  },
+  {
+    "tword": "வெ",
+    "eword": "ve"
+  },
+  {
+    "tword": "வே",
+    "eword": "vee"
+  },
+  {
+    "tword": "வை",
+    "eword": "vai"
+  },
+  {
+    "tword": "வொ",
+    "eword": "vo"
+  },
+  {
+    "tword": "வோ",
+    "eword": "voo"
+  },
+  {
+    "tword": "வௌ",
+    "eword": "vau"
+  },
+  {
+    "tword": "ழ்",
+    "eword": "l"
+  },
+  {
+    "tword": "ழ",
+    "eword": "zha"
+  },
+  {
+    "tword": "ழா",
+    "eword": "zhaa"
+  },
+  {
+    "tword": "ழி",
+    "eword": "zhi"
+  },
+  {
+    "tword": "ழீ",
+    "eword": "zhii"
+  },
+  {
+    "tword": "ழு",
+    "eword": "zhu"
+  },
+  {
+    "tword": "ழூ",
+    "eword": "zhuu"
+  },
+  {
+    "tword": "ழெ",
+    "eword": "zhe"
+  },
+  {
+    "tword": "ழே",
+    "eword": "zhee"
+  },
+  {
+    "tword": "ழை",
+    "eword": "zhai"
+  },
+  {
+    "tword": "ழொ",
+    "eword": "zho"
+  },
+  {
+    "tword": "ழோ",
+    "eword": "zhoo"
+  },
+  {
+    "tword": "ழௌ",
+    "eword": "zhau"
+  },
+  {
+    "tword": "ள்",
+    "eword": "in"
+  },
+  {
+    "tword": "ள",
+    "eword": "la"
+  },
+  {
+    "tword": "ளா",
+    "eword": "laa"
+  },
+  {
+    "tword": "ளி",
+    "eword": "li"
+  },
+  {
+    "tword": "ளீ",
+    "eword": "lii"
+  },
+  {
+    "tword": "ளு",
+    "eword": "lu"
+  },
+  {
+    "tword": "ளூ",
+    "eword": "luu"
+  },
+  {
+    "tword": "ளெ",
+    "eword": "le"
+  },
+  {
+    "tword": "ளே",
+    "eword": "lee"
+  },
+  {
+    "tword": "ளை",
+    "eword": "lai"
+  },
+  {
+    "tword": "ளொ",
+    "eword": "lo"
+  },
+  {
+    "tword": "ளோ",
+    "eword": "loo"
+  },
+  {
+    "tword": "ளௌ",
+    "eword": "lau"
+  },
+  {
+    "tword": "ற்",
+    "eword": "t"
+  },
+  {
+    "tword": "ற",
+    "eword": "ra"
+  },
+  {
+    "tword": "றா",
+    "eword": "raa"
+  },
+  {
+    "tword": "றி",
+    "eword": "ri"
+  },
+  {
+    "tword": "றீ",
+    "eword": "rii"
+  },
+  {
+    "tword": "று",
+    "eword": "ru"
+  },
+  {
+    "tword": "றூ",
+    "eword": "ruu"
+  },
+  {
+    "tword": "றெ",
+    "eword": "re"
+  },
+  {
+    "tword": "றே",
+    "eword": "ree"
+  },
+  {
+    "tword": "றை",
+    "eword": "rai"
+  },
+  {
+    "tword": "றொ",
+    "eword": "ro"
+  },
+  {
+    "tword": "றோ",
+    "eword": "roo"
+  },
+  {
+    "tword": "றௌ",
+    "eword": "rau"
+  },
+  {
+    "tword": "ன்",
+    "eword": "of"
+  },
+  {
+    "tword": "ன",
+    "eword": "na"
+  },
+  {
+    "tword": "னா",
+    "eword": "naa"
+  },
+  {
+    "tword": "னி",
+    "eword": "ni"
+  },
+  {
+    "tword": "னீ",
+    "eword": "nii"
+  },
+  {
+    "tword": "னு",
+    "eword": "nu"
+  },
+  {
+    "tword": "னூ",
+    "eword": "nuu"
+  },
+  {
+    "tword": "னெ",
+    "eword": "ne"
+  },
+  {
+    "tword": "னே",
+    "eword": "nee"
+  },
+  {
+    "tword": "னை",
+    "eword": "nai"
+  },
+  {
+    "tword": "னொ",
+    "eword": "no"
+  },
+  {
+    "tword": "னோ",
+    "eword": "noo"
+  },
+  {
+    "tword": "னௌ",
+    "eword": "nau"
+  },
+  {
+    "tword": "அ",
+    "eword": "a"
+  },
+  {
+    "tword": "ஆ",
+    "eword": "aa"
+  },
+  {
+    "tword": "இ",
+    "eword": "i"
+  },
+  {
+    "tword": "ஈ",
+    "eword": "ii"
+  },
+  {
+    "tword": "உ",
+    "eword": "u"
+  },
+  {
+    "tword": "ஊ",
+    "eword": "uu"
+  },
+  {
+    "tword": "எ",
+    "eword": "ae"
+  },
+  {
+    "tword": "ஏ",
+    "eword": "aee"
+  },
+  {
+    "tword": "ஐ",
+    "eword": "ai"
+  },
+  {
+    "tword": "ஒ",
+    "eword": "o"
+  },
+  {
+    "tword": "ஓ",
+    "eword": "oo"
+  },
+  {
+    "tword": "ஔ",
+    "eword": "auw"
+  }
+]

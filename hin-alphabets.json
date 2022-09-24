@@ -1,0 +1,258 @@
+[
+  {
+    "eword": "a",
+    "hword": "अ"
+  },
+  {
+    "eword": "aa",
+    "hword": "आ"
+  },
+  {
+    "eword": "e",
+    "hword": "ए"
+  },
+  {
+    "eword": "ii",
+    "hword": "ई"
+  },
+  {
+    "eword": "ei",
+    "hword": "ऍ"
+  },
+  {
+    "eword": "ei",
+    "hword": "ऎ"
+  },
+  {
+    "eword": "ai",
+    "hword": "ऐ"
+  },
+  {
+    "eword": "i",
+    "hword": "इ"
+  },
+  {
+    "eword": "o",
+    "hword": "ओ"
+  },
+  {
+    "eword": "oi",
+    "hword": "ऑ"
+  },
+  {
+    "eword": "oii",
+    "hword": "ऒ"
+  },
+  {
+    "eword": "uu",
+    "hword": "ऊ"
+  },
+  {
+    "eword": "ou",
+    "hword": "औ"
+  },
+  {
+    "eword": "u",
+    "hword": "उ"
+  },
+  {
+    "eword": "b",
+    "hword": "ब"
+  },
+  {
+    "eword": "bha",
+    "hword": "भ"
+  },
+  {
+    "eword": "ca",
+    "hword": "च"
+  },
+  {
+    "eword": "chha",
+    "hword": "छ"
+  },
+  {
+    "eword": "da",
+    "hword": "ड"
+  },
+  {
+    "eword": "dha",
+    "hword": "ढ"
+  },
+  {
+    "eword": "fa",
+    "hword": "फ"
+  },
+  {
+    "eword": "fi",
+    "hword": "फ़"
+  },
+  {
+    "eword": "ga",
+    "hword": "ग"
+  },
+  {
+    "eword": "gha",
+    "hword": "घ"
+  },
+  {
+    "eword": "ghi",
+    "hword": "ग़"
+  },
+  {
+    "eword": "ha",
+    "hword": "ह"
+  },
+  {
+    "eword": "ja",
+    "hword": "ज"
+  },
+  {
+    "eword": "jha",
+    "hword": "झ"
+  },
+  {
+    "eword": "ka",
+    "hword": "क"
+  },
+  {
+    "eword": "kha",
+    "hword": "ख"
+  },
+  {
+    "eword": "khi",
+    "hword": "ख़"
+  },
+  {
+    "eword": "l",
+    "hword": "ल"
+  },
+  {
+    "eword": "li",
+    "hword": "ळ"
+  },
+  {
+    "eword": "lii",
+    "hword": "ऌ"
+  },
+  {
+    "eword": "liii",
+    "hword": "ऴ"
+  },
+  {
+    "eword": "liiii",
+    "hword": "ॡ"
+  },
+  {
+    "eword": "ma",
+    "hword": "म"
+  },
+  {
+    "eword": "na",
+    "hword": "न"
+  },
+  {
+    "eword": "naa",
+    "hword": "ङ"
+  },
+  {
+    "eword": "nia",
+    "hword": "ञ"
+  },
+  {
+    "eword": "nae",
+    "hword": "ण"
+  },
+  {
+    "eword": "ni",
+    "hword": "ऩ"
+  },
+  {
+    "eword": "oms",
+    "hword": "ॐ"
+  },
+  {
+    "eword": "pa",
+    "hword": "प"
+  },
+  {
+    "eword": "qi",
+    "hword": "क़"
+  },
+  {
+    "eword": "ra",
+    "hword": "र"
+  },
+  {
+    "eword": "ri",
+    "hword": "ऋ"
+  },
+  {
+    "eword": "rii",
+    "hword": "ॠ"
+  },
+  {
+    "eword": "riii",
+    "hword": "ऱ"
+  },
+  {
+    "eword": "sa",
+    "hword": "स"
+  },
+  {
+    "eword": "sha",
+    "hword": "श"
+  },
+  {
+    "eword": "thha",
+    "hword": "ष"
+  },
+  {
+    "eword": "ta",
+    "hword": "ट"
+  },
+  {
+    "eword": "t'a",
+    "hword": "त"
+  },
+  {
+    "eword": "tha",
+    "hword": "ठ"
+  },
+  {
+    "eword": "tha",
+    "hword": "द"
+  },
+  {
+    "eword": "t'ha",
+    "hword": "थ"
+  },
+  {
+    "eword": "thha",
+    "hword": "ध"
+  },
+  {
+    "eword": "ugdha",
+    "hword": "ड़"
+  },
+  {
+    "eword": "ugdhha",
+    "hword": "ढ़"
+  },
+  {
+    "eword": "va",
+    "hword": "व"
+  },
+  {
+    "eword": "ya",
+    "hword": "य"
+  },
+  {
+    "eword": "yi",
+    "hword": "य़"
+  },
+  {
+    "eword": "za",
+    "hword": "ज़"
+  }
+]
